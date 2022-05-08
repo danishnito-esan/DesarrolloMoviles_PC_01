@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DSM_PC01</string>
+    <string name="app_tittle">Calculadora IMC</string>
+    <string name="app_resultado">Resultado</string>
+    <string name="txtTalla_hint">Ingrese su talla (cm)</string>
+    <string name="txtPeso_hint">Ingrese su peso (kg)</string>
+    <string name="img_description">Logo de IMC</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnGuardar">Guardar Configuración</string>
+    <string name="textoIMC">Su IMC es de:</string>
+    <string name="textoClass">Clasificación:</string>
+</resources>
